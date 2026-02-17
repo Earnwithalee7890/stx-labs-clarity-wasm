@@ -3,3 +3,6 @@ dist
 .DS_Store
 *.wasm
 *.wat
+src/*.js
+src/*.d.ts
+
